@@ -1,7 +1,13 @@
 package org.git;
 
 public class GitBasics {
+	
+	
   public static void main(String[] args) {
-	System.out.println("GIT");
+	  int a=10;
+	  int b= 20;
+	  int c=a+b;
+
+	System.out.println("sum of a and b :"+c);
 }
 }
